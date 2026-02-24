@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about maplestory
 - 📫 How to reach me: pixeleitt@gmail.com
 - 😄 Pronouns: hamster man
-- ⚡ Fun fact: i'm unemploy
+- ⚡ Fun fact: I'm unemploy
 
 
 # 👋 Hello, I'm Pixeleee!
