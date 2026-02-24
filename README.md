@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - 따뜻한 카모마일 티 한잔과 함께 게임을 즐기며, 산책을 통해 새로운 에너지를 얻는 것을 좋아합니다. ☕️🚶‍♂️
 
 ### 🛠 Tech Stack
-*자주 사용하는 기술 스택을 배지로 표현합니다*
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
