@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 </p>
 
 ### 🚀 Recent Projects
-- **[Python Port Scanner]()** : 소켓 통신(TCP 3-Way Handshake)과 멀티스레딩을 활용한 포트 스캐너 및 배너 그래빙 유틸리티 구현
+- **[Python Port Scanner](https://github.com/Pixeleee/port_scanner)** : 소켓 통신(TCP 3-Way Handshake)과 멀티스레딩을 활용한 포트 스캐너 및 배너 그래빙 유틸리티 구현
 
 ### 🔗 Connect
-<a href="블로그주소입력">https://velog.io/@pixeleee/posts<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a> 
+<a href="https://velog.io/@pixeleee/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a> 
 *👆 'Pixeleee'의 IT 성장 블로그 한번 보러오세용*
