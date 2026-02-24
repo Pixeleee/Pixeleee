@@ -1,3 +1,19 @@
+## Hi there 👋
+
+<!--
+**Pixeleee/Pixeleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+- 🔭 I’m currently working on my room
+- 🌱 I’m currently learning all about computer
+- 👯 I’m looking to collaborate on my room
+- 🤔 I’m looking for help with python
+- 💬 Ask me about maplestory
+- 📫 How to reach me: pixeleitt@gmail.com
+- 😄 Pronouns: hamster man
+- ⚡ Fun fact: I'm unemploy
+
 
 # 👋 Hello, I'm Pixeleee!
 <p align="left">
