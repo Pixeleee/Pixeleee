@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 </p>
 
 ### 🚀 Recent Projects
+- **[탄소 절감 어플리케이션](https://github.com/steveve14/Carbon-Capstone-Project)** : [졸업작품] 탄소 절감을 위한 어플리케이션 제작
 - **[Python Port Scanner](https://github.com/Pixeleee/port_scanner)** : 소켓 통신(TCP 3-Way Handshake)과 멀티스레딩을 활용한 포트 스캐너 및 배너 그래빙 유틸리티 구현
-- **[탄소 절감 어플리케이션](https://github.com/steveve14/Carbon-Capstone-Project)** : 탄소 절감을 위한 어플리케이션 제작
+
 
 ### 🔗 Connect
 <a href="https://velog.io/@pixeleee/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a> 
