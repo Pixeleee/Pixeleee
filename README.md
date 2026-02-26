@@ -4,7 +4,6 @@
 **Pixeleee/Pixeleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on my room
 - 🌱 I’m currently learning all about computer
 - 👯 I’m looking to collaborate on my room
@@ -13,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pixeleitt@gmail.com
 - 😄 Pronouns: hamster man
 - ⚡ Fun fact: I'm unemploy
+
+-->
 
 
 # 👋 Hello, I'm Pixeleee!
@@ -24,9 +25,7 @@ Here are some ideas to get you started:
 
 ### 💻 About Me
 - 2022 ~ Graduated from Kyungnam University on February 20, 2025
-- 컴퓨터공학과 ICT스마트제조학과를 복수전공하며, 소프트웨어와 하드웨어를 아우르는 탄탄한 시스템 이해도를 갖추고 있습니다.
 - 인프라 자동화, 데브옵스(DevOps), 그리고 AI 모델 운영 환경 구축에 깊은 관심을 두고 있습니다.
-- 따뜻한 카모마일 티 한잔과 함께 게임을 즐기며, 산책을 통해 새로운 에너지를 얻는 것을 좋아합니다. ☕️🚶‍♂️
 
 ### 🛠 Tech Stack
 <p>
