@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ### 💻 About Me
 - 2022 ~ Graduated from Kyungnam University on February 20, 2025
-- 인프라 자동화, 데브옵스(DevOps), 그리고 AI 모델 운영 환경 구축에 깊은 관심을 두고 있습니다.
 
 ### 🛠 Tech Stack
 <p>
